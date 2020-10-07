@@ -1,7 +1,13 @@
 # Qconcursos - Processo seletivo - Desafio
 Este repositório diz respeito ao que foi desenvolvido para o processo seletivo do qconcursos.
 
+> Prototipação
 
+> ![Screenshot](https://raw.githubusercontent.com/SylarK/qcx-challenge/main/img/readme/1-prototipacao.JPG)
+
+> Esqueleto
+
+> ![Screenshot](https://github.com/SylarK/qcx-challenge/blob/main/img/readme/2-esqueleto.JPG)
 
 > Tasks
 
